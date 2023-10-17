@@ -5,7 +5,7 @@ The implementation of [Domain-Generalized Face Anti-Spoofing with Unknown Attack
 The architecture of the proposed DGUA-FAS method:
 
 <div align=center>
-<img src="https://github.com/AI-Application-and-Integration-Lab/DGUA_FAS/blob/main/architecture/fig.png" width="800" height="296" />
+<img src="https://github.com/AI-Application-and-Integration-Lab/DGUA_FAS/blob/master/architecture/fig.png" width="800" height="296" />
 </div>
 
 ## Congifuration Environment

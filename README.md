@@ -17,7 +17,7 @@ The architecture of the proposed DGUA-FAS method:
 
 ## Requirements
 
-### Install MobileViT and modify base_cls.py to [our version](https://drive.google.com/file/d/1shq23SpC4X2OoYFELFjHMWpYyolmMEpj/view?usp=share_link)
+### Install MobileViT and modify base_cls.py to [our version](https://drive.google.com/file/d/1tSSI7v3l6eN5hnwIkeltkYQZscnD4UaK/view?usp=drive_link)
 
 ```python
 git clone https://github.com/apple/ml-cvnets
@@ -58,7 +58,7 @@ run like this:
 python dg_test.py
 ```
 
-We also provide our pretrained model [[Google drive]](https://drive.google.com/drive/folders/1D8WZjO62Kv4uzzNouzJWs2BrBayZq_0l?usp=sharing)
+We also provide our pretrained model [[Google drive]](https://drive.google.com/drive/folders/1xVqHF9uV2Kv_vJZtY-HyqWABcm1-7Zcl?usp=sharing)
 
 ## Acknowledgment
 
